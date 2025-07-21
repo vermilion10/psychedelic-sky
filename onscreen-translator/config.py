@@ -1,0 +1,1 @@
+TESSERACT_CMD_PATH = r'F:\Tesseract-OCR\tesseract.exe'
